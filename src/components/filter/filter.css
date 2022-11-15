@@ -1,0 +1,16 @@
+.title{
+    font-size: 30px;
+    font-weight:700;
+}
+.filter{
+    width: 200px;
+    padding: 4px;
+    background: #e5e5e5;
+    border:none
+}
+.mr-20{
+    margin-right: 20px;
+}
+.cp{
+    cursor: pointer;
+}
